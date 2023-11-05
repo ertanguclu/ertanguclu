@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **ertangucluu@gmail.com**
 
-- ⚡ Fun fact **Code💻, Coffee ☕and Music🎶 are the reasons to live.**
+- ⚡ Fun fact **Code💻, Coffee ☕and Music🎶 are the reasons to live.**   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,6 +45,8 @@
   </td>
  </tr>
 </table>
+
+
 
 
 
