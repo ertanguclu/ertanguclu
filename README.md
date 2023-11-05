@@ -33,10 +33,10 @@
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&amp;logo=microsoft%20sql%20server&amp;logoColor=white" alt="MicrosoftSQLServer">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ertanguclu&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="ertanguclu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ertanguclu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=30&locale=en&layout=compact" alt="ertanguclu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ertanguclu&&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="ertanguclu" /></p>
-<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ertanguclu&theme=tokyonight&hide_border=true&border_radius=30&mode=weekly&card_width=450" alt="ertanguclu" /></a></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ertanguclu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=30&locale=en" alt="ertanguclu" /></p>
 
-
+<p><a href="https://git.io/streak-stats"><img align="right" src="https://streak-stats.demolab.com?user=ertanguclu&theme=tokyonight&hide_border=true&border_radius=30&mode=weekly&card_width=450" alt="ertanguclu" /></a></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ertanguclu &theme=radical)
 
