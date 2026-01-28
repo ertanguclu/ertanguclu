@@ -36,7 +36,7 @@
 <table border="0" align="center">
   <tr border="0">
     <td width="50%" align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=ertanguclu&amp;theme=tokyonight&amp;hide_border=true&border_radius=30&amp;include_all_commits=false&amp;count_private=false" alt="">
+ <img src="https://github-readme-stats.vercel.app/api?username=ertanguclu&amp;theme=tokyonight&amp;hide_border=true&border_radius=30&amp;include_all_commits=true&amp;count_private=true" alt="">
  <hr>
  <p><a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=ertanguclu&theme=tokyonight&hide_border=true&border_radius=30&mode=weekly&card_width=450" alt="ertanguclu" />
   <td width="50%" align="center">
