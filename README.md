@@ -40,7 +40,7 @@
  <hr>
  <p><a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=ertanguclu&theme=tokyonight&hide_border=true&border_radius=30&mode=weekly&card_width=450" alt="ertanguclu" />
   <td width="50%" align="center">
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ertanguclu&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=6"/>
+<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ertanguclu&theme=tokyonight&hide_border=true&layout=compact&langs_count=6"/>
   </td>
  </tr>
 </table>
