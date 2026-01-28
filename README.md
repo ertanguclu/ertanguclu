@@ -33,17 +33,31 @@
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&amp;logo=microsoft%20sql%20server&amp;logoColor=white" alt="MicrosoftSQLServer">
 </p>
 
-<table border="0" align="center">
-  <tr border="0">
+<table align="center" border="0">
+  <tr>
     <td width="50%" align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=ertanguclu&amp;theme=tokyonight&amp;hide_border=true&border_radius=30&amp;include_all_commits=true&amp;count_private=true" alt="">
- <hr>
- <p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ertanguclu&theme=dark&hide_border=true&border_radius=30&card_width=450" alt="ertanguclu" /></a>
-  <td width="50%" align="center">
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ertanguclu&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=6"/>
-  </td>
- </tr>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=ertanguclu&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=30&amp;include_all_commits=true"
+        alt="GitHub Stats"
+      />
+      <br /><br />
+      <a href="https://git.io/streak-stats">
+        <img
+          src="https://streak-stats.demolab.com?user=ertanguclu&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=30&amp;card_width=450"
+          alt="GitHub Streak"
+        />
+      </a>
+    </td>
+
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ertanguclu&amp;theme=tokyonight&amp;hide_border=true&amp;layout=compact&amp;langs_count=6"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
 </table>
+
 
 
 
